@@ -1,0 +1,43 @@
+[support_tom] 2023-07-24T10:02:23+00:00 : ¿En qué puedo ayudarte?
+[johndoe] 2023-07-24T10:03:15+00:00: NO PUEDO CONECTARME A MI JODIDA CUENTA!
+[support_tom] 2023-07-24T10:03:30+00:00: ¿Estás seguro de que no es el bloqueo de mayúsculas?
+[johndoe] 2023-07-24T10:04:03+00:00: ¡Mierda! ¡Tienes razón!
+
+[support_amy] 2023-06-15T14:45:35+00:00: ¡Hola! ¿Cómo puedo ayudarle hoy?
+[greg_stone] 2023-06-15T14:46:20+00:00: Parece que no puedo encontrar el enlace de descarga del software que compré.
+[support_amy] 2023-06-15T14:47:01+00:00: No hay problema, Greg. Déjame encontrar eso para ti. ¿Puede proporcionarnos su número de pedido?
+[greg_stone] 2023-06-15T14:47:38+00:00: Es 1245789. ¡Gracias por ayudarme!
+
+[support_louis] 2023-05-05T09:22:12+00:00 : Hola, ¿en qué puedo ayudarte hoy?
+[karen_w] 2023-05-05T09:23:47+00:00 : ¡¡¡MI MALDITO PEDIDO AÚN NO HA LLEGADO Y HA PASADO UNA SEMANA!!!
+[support_louis] 2023-05-05T09:24:15+00:00: Lamento escuchar eso, Karen. Analicemos este tema.
+[support_louis] 2023-05-05T09:25:35+00:00: ¿Puede proporcionarme su número de pedido para que pueda verificar el estado?
+[karen_w] 2023-05-05T09:26:12+00:00: Bien, es 9876543.
+[support_louis] 2023-05-05T09:26:45+00:00: Gracias, Karen. Veo que hubo un retraso en el envío. Tu pedido llegará en los próximos 2 días.
+
+[support_jenny] 2023-06-18T17:35:28+00:00: ¡Hola! ¿Cómo puedo ayudarte hoy?
+[alex_harper] 2023-06-18T17:36:05+00:00: Accidentalmente hice un pedido dos veces, ¿pueden ayudarme a cancelar uno?
+[support_jenny] 2023-06-18T17:36:25+00:00: Claro, Alex. ¿Puedes darme el número de pedido que deseas cancelar?
+[alex_harper] 2023-06-18T17:36:55+00:00: Sí, es 1122334. ¡Gracias!
+[support_jenny] 2023-06-18T17:37:32+00:00: Cancelé con éxito el pedido número 1122334. Recibirás un correo electrónico de confirmación en breve.
+
+[support_ben] 2023-06-29T11:51:45+00:00: Buenos días, ¿en qué puedo ayudarte hoy?
+[lisa_beck] 2023-06-29T11:52:20+00:00: Hola, recibí un artículo dañado en mi pedido. ¿Puedes ayudarme a devolverlo?
+[support_ben] 2023-06-29T11:52:45+00:00: Lamento escuchar eso, Lisa. ¿Puede proporcionar su número de pedido y especificar el artículo dañado?
+[lisa_beck] 2023-06-29T11:53:22+00:00: Claro, el número de pedido es 5566778 y el artículo dañado es una taza de café.
+
+[support_rachel] 2023-05-04T08:16:37+00:00: ¿Cómo puedo ayudarte hoy?
+[mike_t] 2023-05-04T08:17:15+00:00: Mi código de cupón no funciona al finalizar la compra. ¿Puede usted ayudar?
+[support_rachel] 2023-05-04T08:17:38+00:00: Por supuesto, Mike. Proporcione el código de cupón que está intentando utilizar.
+[mike_t] 2023-05-04T08:18:02+00:00: Es "HOLA10".
+[support_rachel] 2023-05-04T08:18:37+00:00: Revisé el código y parece haber caducado. Pido disculpas por las molestias. Aquí tienes un nuevo código que puedes utilizar: "BIENVENIDO15".
+
+[support_vincent] 2023-06-15T20:43:55+00:00: ¡Buenas noches! ¿Cómo puedo ayudarte?
+[sara_winters] 2023-06-15T20:44:30+00:00: Hola, tengo problemas para iniciar sesión en mi cuenta. Intenté restablecer mi contraseña, pero no funciona.
+[support_vincent] 2023-06-15T20:44:52+00:00: Lamento escuchar eso, Sara. Deja que te ayude. ¿Puedes confirmar tu dirección de correo electrónico?
+[sara_winters] 2023-06-15T20:45:25+00:00: Claro, soy sara.winters@email.com.
+
+[support_david] 2023-06-24T16:28:43+00:00: ¡Bienvenido! ¿Qué puedo hacer por ti hoy?
+[jane_d] 2023-06-24T16:29:16+00:00: Hola, necesito cambiar mi dirección de entrega para mi pedido reciente.
+[support_david] 2023-06-24T16:29:43+00:00: Muy bien, Jane. Por favor proporcione su número de pedido.
+[jane_d] 2023-06-24T16:30:11+00:00: Es 3344556. ¡Gracias por tu ayuda!

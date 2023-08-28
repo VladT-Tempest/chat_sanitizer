@@ -20,5 +20,15 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("file_path", type=Path, help="Path to the input file")
     return parser.parse_args()
 
+def get_completion(content: str, settings: Settings) -> str:
+    """  OpenAI’s GPT-3.5 model (text-davinci-003) """
+    message = "get_completion in process!"
+    return message
+
+def get_chat_completion(content: str, settings: Settings) -> str:
+    """ OpenAI’s GPT-4 model (gpt-4) """
+    message = "get_chat_completion in process!"
+    return message
+
 if __name__ == "__main__":
     main(parse_args())
