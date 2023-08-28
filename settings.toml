@@ -7,7 +7,7 @@ temperature = 0
 [prompts]
 instruction_prompt = """
 Remove personally identifiable information, only show the date,
-and replace all swear words with "😤"
+and replace all swear words with "🙉🙈🙊"
 """
 role_prompt = """
 """
